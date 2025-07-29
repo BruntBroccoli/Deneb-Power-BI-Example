@@ -31,6 +31,10 @@ This Power BI file demonstrates how I used Deneb (a custom visual powered by Veg
 3. You’ll see the Vega-Lite JSON code on the left bar
 4. You can edit it live or copy it into a new file
 
+## 🔗 Links 
+The Deneb Power BI for documentation - https://deneb.guide/
+My substack for the full story - Coming Soon
+
 ## 🔒 Disclaimer
 
 All data and visuals are synthetic recreations and do not reflect real business content. This repo is for educational purposes only.
