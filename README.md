@@ -33,7 +33,8 @@ This Power BI file demonstrates how I used Deneb (a custom visual powered by Veg
 
 ## 🔗 Links 
 The Deneb Power BI for documentation - https://deneb.guide/
-My substack for the full story - Coming Soon
+
+My substack for the full story - https://substack.com/@bruntbroccoli/p-169349711
 
 ## 🔒 Disclaimer
 
